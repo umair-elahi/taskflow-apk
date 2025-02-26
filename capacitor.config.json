@@ -1,0 +1,16 @@
+{
+  "appId": "com.aetasaal.app",
+  "appName": "aetasaal-2.0",
+  "webDir": "dist/aetasaal-web",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://aetasaal.duckdns.org",
+    "cleartext": true,
+    "allowNavigation": [
+      "aetasaal.duckdns.org"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
